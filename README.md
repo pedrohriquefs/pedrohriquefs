@@ -15,9 +15,10 @@
 
 ### Working with:
 ![Python](https://img.shields.io/badge/python-3c999d?style=for-the-badge&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%ffffff.svg?style=for-the-badge&logo=microsoftazure&logoColor=black)
+![Azure](https://img.shields.io/badge/azure-%ffffff.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%white.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%white.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-3c999d.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)
 
 
 ### Studying:
