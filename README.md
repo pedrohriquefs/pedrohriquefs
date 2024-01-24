@@ -13,8 +13,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-3c999d?style=for-the-badge&logo=gmail&logoColor=white)](pedro.henrique.henrique229@gmail.com)
 
 ### Working with:
-![PowerShell](https://img.shields.io/badge/PowerShell-%3c999d.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3c999d?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%rgb(60,155,155).svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/python-3c999d?style=for-the-badge&logo=python&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%3c999d.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Studying:
