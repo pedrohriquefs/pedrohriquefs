@@ -10,21 +10,21 @@
 ### Contact me at:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-3c999d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquesf/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedro.henrique.henrique229@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-3c999d?style=for-the-badge&logo=gmail&logoColor=white)](pedro.henrique.henrique229@gmail.com)
 
 ### Working with:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%3c999d.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/python-3c999d?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/azure-%3c999d.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Studying:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-3c999d?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-3c999d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-3c999d?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-3c999d?style=for-the-badge&logo=github&logoColor=white)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c9b9b&height=120&section=footer"/>
