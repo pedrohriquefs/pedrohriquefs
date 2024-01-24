@@ -27,8 +27,8 @@
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-3c999d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-3c999d?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-3c999d?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-3c999d.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c9b9b&height=120&section=footer"/>
