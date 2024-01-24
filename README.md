@@ -15,9 +15,9 @@
 
 ### Working with:
 ![Python](https://img.shields.io/badge/python-3c999d?style=for-the-badge&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%1e88b2.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%1e88b2.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%416055.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%white.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%white.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%white.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 ### Studying:
