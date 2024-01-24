@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c9b9b&height=120&section=header"/>
 
 <br></br>
 
@@ -9,7 +9,7 @@
 
 ### Contact Me:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peddr05/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquesf/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedro.henrique.henrique229@gmail.com)
 
 ### Studying:
@@ -25,4 +25,4 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c9b9b&height=120&section=footer"/>
