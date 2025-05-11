@@ -5,8 +5,8 @@ I'm a Back-End Developer working with Kotlin and Java at C6 Bank.
 ---
 
 ### Find me at:
-[![Gmail](https://img.shields.io/badge/Gmail-BEDDF5?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:pedro.henrique.henrique229@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-BEDDF5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pedrohenriquesf/)
+[![Gmail](https://img.shields.io/badge/Gmail-81bae6?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:pedro.henrique.henrique229@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-81bae6?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pedrohenriquesf/)
 
 ### Working with:
 ![Java](https://img.shields.io/badge/java-A0CFF2.svg?style=for-the-badge&logo=openjdk&logoColor=ffffff)
