@@ -4,13 +4,13 @@ I'm 20 years old, a Back-End Developer working with Kotlin and Java at C6 Bank.
 
 ---
 
-### Find me at:
+### Find me at: 
 [![Gmail](https://img.shields.io/badge/Gmail-0C1820?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pedro.henrique.henrique229@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0C1820?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/pedrohenriquesf/)
 
 ---
 
-### Working with:
+### Working with: 
 ![Java](https://img.shields.io/badge/java-A0CFF2.svg?style=for-the-badge&logo=openjdk&logoColor=000000)
 ![Kotlin](https://img.shields.io/badge/kotlin-A0CFF2.svg?style=for-the-badge&logo=kotlin&logoColor=000000)
 ![Spring](https://img.shields.io/badge/spring-A0CFF2.svg?style=for-the-badge&logo=spring&logoColor=000000)
