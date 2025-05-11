@@ -1,14 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BEDDF5,D4E9F6,A0CFF2&height=120&section=header&text=Hi%2C%20I'm%20Pedro%20Henrique&fontSize=40&fontColor=ffffff"/>
 
-I'm 20 years old, a Back-End Developer working with Kotlin and Java at C6 Bank.
+I'm a Back-End Developer working with Kotlin and Java at C6 Bank.
 
 ---
 
 ### Find me at: 
 [![Gmail](https://img.shields.io/badge/Gmail-0C1820?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pedro.henrique.henrique229@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0C1820?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/pedrohenriquesf/)
-
----
 
 ### Working with: 
 ![Java](https://img.shields.io/badge/java-A0CFF2.svg?style=for-the-badge&logo=openjdk&logoColor=000000)
@@ -30,7 +28,7 @@ I'm 20 years old, a Back-End Developer working with Kotlin and Java at C6 Bank.
 
 ---
 
-<img align="right" height="150" src="https://64.media.tumblr.com/c66f7d3b0c58d1dbed290599b8acd5c5/4667c42c04d1e08f-a4/s540x810/b61e250cef4073657ff23acf741cfb09c219f573.gif" />
+<img align="right" height="150" src="https://gifdb.com/images/high/wicked-witch-of-the-west-elphaba-thropp-t1ut3jsj61h4o1oa.gif" />
 
 <br clear="both">
 
