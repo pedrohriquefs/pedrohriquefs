@@ -22,8 +22,8 @@ I'm a Back-End Developer working with Kotlin and Java at C6 Bank.
 ---
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrohriquefs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gradient&bg_color=30,BEDDF5,A0CFF2&title_color=003366&text_color=003366&icon_color=000000&hide_border=true" style="border-radius: 15px; border: 3px solid #0066cc;" alt="stats graph"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohriquefs&layout=compact&theme=gradient&bg_color=30,BEDDF5,A0CFF2&title_color=003366&text_color=003366&hide_border=true" style="border-radius: 15px; border: 3px solid #0066cc;" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pedrohriquefs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gradient&bg_color=30,BEDDF5,A0CFF2&title_color=003366&text_color=003366&icon_color=000000&hide_border=true" style="border-radius: 15px; border: 3px solid #0066cc;" alt="stats graph"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohriquefs&layout=compact&theme=gradient&bg_color=30,BEDDF5,A0CFF2&title_color=003366&text_color=003366&hide_border=true" style="border-radius: 15px; border: 3px solid #0066cc;" />
 </div>
 
 <br clear="both">
