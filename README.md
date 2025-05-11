@@ -24,5 +24,9 @@
 ![Gradle](https://img.shields.io/badge/Gradle-3c999d.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-3c999d.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=onedark)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c9b9b&height=120&section=footer"/>
