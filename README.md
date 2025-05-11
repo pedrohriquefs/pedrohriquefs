@@ -19,8 +19,6 @@ I'm a Back-End Developer working with Kotlin and Java at C6 Bank.
 ![Gradle](https://img.shields.io/badge/Gradle-A0CFF2.svg?style=for-the-badge&logo=Gradle&logoColor=000000)
 ![Grafana](https://img.shields.io/badge/grafana-A0CFF2.svg?style=for-the-badge&logo=grafana&logoColor=000000)
 
----
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohnriquefs&show_icons=true&theme=gradient&custom_title=Pedro's%20GitHub%20Stats&bg_color=30,BEDDF5,A0CFF2&title_color=0C1820&icon_color=0C1820&text_color=ffffff&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohnriquefs&layout=compact&theme=gradient&bg_color=30,D4E9F6,BEDDF5&title_color=0C1820&text_color=ffffff" />
