@@ -5,21 +5,21 @@ I'm 20 years old, a Back-End Developer working with Kotlin and Java at C6 Bank.
 ---
 
 ### Find me at:
-[![Gmail](https://img.shields.io/badge/Gmail-0C1820?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.henrique.henrique229@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0C1820?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquesf/)
+[![Gmail](https://img.shields.io/badge/Gmail-0C1820?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:pedro.henrique.henrique229@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0C1820?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/pedrohenriquesf/)
 
 ---
 
 ### Working with:
-![Java](https://img.shields.io/badge/java-A0CFF2.svg?style=for-the-badge&logo=openjdk&logoColor=0C1820)
-![Kotlin](https://img.shields.io/badge/kotlin-A0CFF2.svg?style=for-the-badge&logo=kotlin&logoColor=0C1820)
-![Spring](https://img.shields.io/badge/spring-A0CFF2.svg?style=for-the-badge&logo=spring&logoColor=0C1820)
+![Java](https://img.shields.io/badge/java-A0CFF2.svg?style=for-the-badge&logo=openjdk&logoColor=000000)
+![Kotlin](https://img.shields.io/badge/kotlin-A0CFF2.svg?style=for-the-badge&logo=kotlin&logoColor=000000)
+![Spring](https://img.shields.io/badge/spring-A0CFF2.svg?style=for-the-badge&logo=spring&logoColor=000000)
 
 ### Tools:
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-A0CFF2?style=for-the-badge&logo=apachekafka&logoColor=0C1820)
-![AWS](https://img.shields.io/badge/AWS-A0CFF2.svg?style=for-the-badge&logo=amazon-aws&logoColor=0C1820)
-![Gradle](https://img.shields.io/badge/Gradle-A0CFF2.svg?style=for-the-badge&logo=Gradle&logoColor=0C1820)
-![Grafana](https://img.shields.io/badge/grafana-A0CFF2.svg?style=for-the-badge&logo=grafana&logoColor=0C1820)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-A0CFF2?style=for-the-badge&logo=apachekafka&logoColor=000000)
+![AWS](https://img.shields.io/badge/AWS-A0CFF2.svg?style=for-the-badge&logo=amazon-aws&logoColor=000000)
+![Gradle](https://img.shields.io/badge/Gradle-A0CFF2.svg?style=for-the-badge&logo=Gradle&logoColor=000000)
+![Grafana](https://img.shields.io/badge/grafana-A0CFF2.svg?style=for-the-badge&logo=grafana&logoColor=000000)
 
 ---
 
