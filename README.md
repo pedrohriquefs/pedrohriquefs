@@ -28,7 +28,7 @@ I'm a Back-End Developer working with Kotlin and Java at C6 Bank.
 
 ---
 
-<img align="right" height="150" src="https://media1.tenor.com/m/lYfn7OLSIQoAAAAd/elphaba-wicked.gif" />
+<img align="right" height="323" src="https://media1.tenor.com/m/lYfn7OLSIQoAAAAd/elphaba-wicked.gif" />
 
 <br clear="both">
 
