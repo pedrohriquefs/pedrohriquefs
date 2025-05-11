@@ -39,8 +39,8 @@
 
 ###
 
-<img align="right" height="150" src="(https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1651960/12dd77dbf27aa332a163af2a185ee4eca5d0a890.gif)"  />
-
+<img align="right" height="150" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1651960/12dd77dbf27aa332a163af2a185ee4eca5d0a890.gif"  />
+<img align="right" height="150" src="https://64.media.tumblr.com/c66f7d3b0c58d1dbed290599b8acd5c5/4667c42c04d1e08f-a4/s540x810/b61e250cef4073657ff23acf741cfb09c219f573.gif"  />
 ###
 
 <div align="left">
@@ -62,9 +62,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c9b9b&height=120&section=footer"/>
