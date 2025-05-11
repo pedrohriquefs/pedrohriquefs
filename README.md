@@ -2,7 +2,6 @@
 
 <br></br>
 ### I'm Pedro Henrique.
-<br></br>
 
 ### Find me at:
 [![Gmail](https://img.shields.io/badge/Gmail-3c999d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.henrique.henrique229@gmail.com)
@@ -30,10 +29,6 @@
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Languages and Tools:
-
-<!-- Mantido igual como você já tinha com ícones -->
-
-<h2 align="left">Hi 👋! My name is Pedro Henrique and I'm a Software Developer from Brazil.</h2>
 
 ###
 
