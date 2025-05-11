@@ -22,8 +22,8 @@ I'm a Back-End Developer working with Kotlin and Java at C6 Bank.
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohnriquefs&show_icons=true&theme=gradient&custom_title=Pedro's%20GitHub%20Stats&bg_color=30,BEDDF5,A0CFF2&title_color=0C1820&icon_color=0C1820&text_color=0C1820&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohnriquefs&layout=compact&theme=gradient&bg_color=30,D4E9F6,BEDDF5&title_color=0C1820&text_color=0C1820" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohnriquefs&show_icons=true&theme=gradient&custom_title=Pedro's%20GitHub%20Stats&bg_color=30,BEDDF5,A0CFF2&title_color=0C1820&icon_color=0C1820&text_color=ffffff&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohnriquefs&layout=compact&theme=gradient&bg_color=30,D4E9F6,BEDDF5&title_color=0C1820&text_color=ffffff" />
 </div>
 
 <br clear="both">
