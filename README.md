@@ -5,19 +5,19 @@ I'm a Back-End Developer working with Kotlin and Java at C6 Bank.
 ---
 
 ### Find me at:
-[![Gmail](https://img.shields.io/badge/Gmail-A0CFF2?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:pedro.henrique.henrique229@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-D4E9F6?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pedrohenriquesf/)
+[![Gmail](https://img.shields.io/badge/Gmail-BEDDF5?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:pedro.henrique.henrique229@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-BEDDF5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pedrohenriquesf/)
 
 ### Working with:
-![Java](https://img.shields.io/badge/java-BEDDF5.svg?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![Java](https://img.shields.io/badge/java-A0CFF2.svg?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![Kotlin](https://img.shields.io/badge/kotlin-A0CFF2.svg?style=for-the-badge&logo=kotlin&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/spring-D4E9F6.svg?style=for-the-badge&logo=spring&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/spring-A0CFF2.svg?style=for-the-badge&logo=spring&logoColor=ffffff)
 
 ### Tools:
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-A0CFF2?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-D4E9F6?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/AWS-D4E9F6.svg?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)
-![Gradle](https://img.shields.io/badge/Gradle-BEDDF5.svg?style=for-the-badge&logo=Gradle&logoColor=ffffff)
-![Grafana](https://img.shields.io/badge/grafana-A0CFF2.svg?style=for-the-badge&logo=grafana&logoColor=ffffff)
+![Gradle](https://img.shields.io/badge/Gradle-D4E9F6.svg?style=for-the-badge&logo=Gradle&logoColor=ffffff)
+![Grafana](https://img.shields.io/badge/grafana-D4E9F6.svg?style=for-the-badge&logo=grafana&logoColor=ffffff)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohnriquefs&show_icons=true&theme=gradient&custom_title=Pedro's%20GitHub%20Stats&bg_color=30,A0CFF2,D4E9F6&title_color=0C1820&icon_color=0C1820&text_color=ffffff&count_private=true" />
