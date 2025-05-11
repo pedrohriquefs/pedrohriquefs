@@ -1,21 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BEDDF5,D4E9F6,A0CFF2&height=120&section=header&text=Hi%2C%20I'm%20Pedro%20Henrique&fontSize=40&fontColor=fffff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BEDDF5,D4E9F6,A0CFF2&height=120&section=header&text=Hi%2C%20I'm%20Pedro%20Henrique&fontSize=40&fontColor=ffffff"/>
 
 I'm 20 years old, a Back-End Developer working with Kotlin and Java at C6 Bank.
 
 ---
 
-### 📲 Find me at:
+### Find me at:
 [![Gmail](https://img.shields.io/badge/Gmail-0C1820?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.henrique.henrique229@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0C1820?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquesf/)
 
 ---
 
-### 🚀 Working with:
+### Working with:
 ![Java](https://img.shields.io/badge/java-A0CFF2.svg?style=for-the-badge&logo=openjdk&logoColor=0C1820)
 ![Kotlin](https://img.shields.io/badge/kotlin-A0CFF2.svg?style=for-the-badge&logo=kotlin&logoColor=0C1820)
 ![Spring](https://img.shields.io/badge/spring-A0CFF2.svg?style=for-the-badge&logo=spring&logoColor=0C1820)
 
-### ⚙️ Tools:
+### Tools:
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-A0CFF2?style=for-the-badge&logo=apachekafka&logoColor=0C1820)
 ![AWS](https://img.shields.io/badge/AWS-A0CFF2.svg?style=for-the-badge&logo=amazon-aws&logoColor=0C1820)
 ![Gradle](https://img.shields.io/badge/Gradle-A0CFF2.svg?style=for-the-badge&logo=Gradle&logoColor=0C1820)
