@@ -14,8 +14,8 @@
 
 
 ### Working with:
-![Kotlin](https://img.shields.io/badge/kotlin-%3c999d.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java]![Java](https://img.shields.io/badge/java-%3c999d.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-3c999d.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-3c999d.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Power%20Automate-3c999d.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)
 ![Spring](https://img.shields.io/badge/PowerShell-3c999d.svg?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-3c999d.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
