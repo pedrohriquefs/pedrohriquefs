@@ -2,7 +2,7 @@
 
 <br></br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Pedro+Henrique+;I'm+19+years+old;I'm+from+São+Paulo,+SP;I+study+systems+development+at+Fatec;and+I'm+Currently+an+IT+Intern+at+C6Bank!;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Pedro+Henrique;I'm+20+years+old;I'm+a+Back-End+Developer;Working+with+Kotlin+and+Java+at+C6+Bank!&speed=60)](https://git.io/typing-svg)
 
 <br></br>
 
@@ -16,9 +16,7 @@
 ### Working with:
 ![Kotlin](https://img.shields.io/badge/kotlin-3c999d.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-3c999d.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Power%20Automate-3c999d.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)
-![Spring](https://img.shields.io/badge/PowerShell-3c999d.svg?style=for-the-badge&logo=PowerShell&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-3c999d.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-3c999d.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 ### Tools:
