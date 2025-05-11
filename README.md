@@ -14,15 +14,11 @@
 
 
 ### Working with:
-![Python](https://img.shields.io/badge/python-3c999d?style=for-the-badge&logo=python&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-3c999d.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-3c999d.svg?style=for-the-badge&logo=PowerShell&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%3c999d.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java]![Java](https://img.shields.io/badge/java-%3c999d.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Power%20Automate-3c999d.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)
+![Spring](https://img.shields.io/badge/PowerShell-3c999d.svg?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-3c999d.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
-
-
-
-### Studying:
-![JavaScript](https://img.shields.io/badge/JavaScript-3c999d?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 
 
 ### Tools:
