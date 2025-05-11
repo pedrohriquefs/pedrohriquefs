@@ -22,7 +22,7 @@ I'm a Back-End Developer working with Kotlin and Java at C6 Bank.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohriquefs)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohnriquefs&layout=compact&theme=gradient&bg_color=30,BEDDF5,A0CFF2&title_color=0C1820&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohriquefs&layout=compact&theme=gradient&bg_color=30,BEDDF5,A0CFF2&title_color=0C1820&text_color=ffffff" />
 </div>
 
 <br clear="both">
