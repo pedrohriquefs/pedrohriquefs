@@ -19,10 +19,11 @@ I'm a Back-End Developer working with Kotlin and Java at C6 Bank.
 ![Gradle](https://img.shields.io/badge/Gradle-81bae6.svg?style=for-the-badge&logo=Gradle&logoColor=ffffff)
 ![Grafana](https://img.shields.io/badge/grafana-81bae6.svg?style=for-the-badge&logo=grafana&logoColor=ffffff)
 
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrohriquefs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohriquefs&layout=compact&theme=gradient&bg_color=30,BEDDF5,A0CFF2&title_color=0C1820&text_color=ffffff" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrohriquefs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gradient&bg_color=30,BEDDF5,A0CFF2&title_color=003366&text_color=003366&icon_color=000000&hide_border=true" style="border-radius: 15px; border: 3px solid #0066cc;" alt="stats graph"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohriquefs&layout=compact&theme=gradient&bg_color=30,BEDDF5,A0CFF2&title_color=003366&text_color=003366&hide_border=true" style="border-radius: 15px; border: 3px solid #0066cc;" />
 </div>
 
 <br clear="both">
