@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=81bae6,A0CFF2,86b1d1&height=120&section=header&text=Hi%2C%20I'm%20Pedro%20Henrique&fontSize=40&fontColor=ffffff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=81bae6&height=120&section=header&text=Hi%2C%20I'm%20Pedro%20Henrique&fontSize=40&fontColor=ffffff"/>
 
 I'm a Back-End Developer working with Kotlin and Java at C6 Bank.
 
