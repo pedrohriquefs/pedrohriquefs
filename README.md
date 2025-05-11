@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BEDDF5,D4E9F6,A0CFF2&height=120&section=header&text=Hi%2C%20I'm%20Pedro%20Henrique&fontSize=40&fontColor=white"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BEDDF5,D4E9F6,A0CFF2&height=120&section=header&text=Hi%2C%20I'm%20Pedro%20Henrique&fontSize=40&fontColor=fffff"/>
 
 I'm 20 years old, a Back-End Developer working with Kotlin and Java at C6 Bank.
 
