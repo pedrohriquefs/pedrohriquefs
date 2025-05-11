@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3c999d&height=120&section=header&text=Hi%2C%20I'm%20Pedro%20Henrique&fontSize=40&fontColor=ffffff"/>
 
-## Hi, I'm Pedro Henrique
-
 ### My name is Pedro Henrique, I'm 20 years old, a Back-End Developer working with Kotlin and Java at C6 Bank.
 
 ---
