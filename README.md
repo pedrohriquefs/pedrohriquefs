@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7dc7ff&height=120&section=header&text=Hi%2C%20I'm%20Pedro%20Henrique&fontSize=40&fontColor=ffffff"/>
 
-I'm a Back-End Developer working with Kotlin and Java at C6 Bank.
+I'm a Front-End Developer working at C6 Bank.
 
 ---
 
