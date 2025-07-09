@@ -9,15 +9,17 @@ I'm a Front-End Developer working at C6 Bank.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-81bae6?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pedrohenriquesf/)
 
 ### Working with:
-![Java](https://img.shields.io/badge/java-81bae6.svg?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/kotlin-81bae6.svg?style=for-the-badge&logo=kotlin&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/spring-81bae6.svg?style=for-the-badge&logo=spring&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/javascript-81bae6.svg?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![React](https://img.shields.io/badge/react-81bae6.svg?style=for-the-badge&logo=react&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/html5-81bae6.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/css3-81bae6.svg?style=for-the-badge&logo=css3&logoColor=ffffff)
+
 
 ### Tools:
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-81bae6?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/AWS-81bae6.svg?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)
-![Gradle](https://img.shields.io/badge/Gradle-81bae6.svg?style=for-the-badge&logo=Gradle&logoColor=ffffff)
-![Grafana](https://img.shields.io/badge/grafana-81bae6.svg?style=for-the-badge&logo=grafana&logoColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-81bae6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![npm](https://img.shields.io/badge/npm-81bae6.svg?style=for-the-badge&logo=npm&logoColor=ffffff)
+![Git](https://img.shields.io/badge/git-81bae6.svg?style=for-the-badge&logo=git&logoColor=ffffff)
+![Storybook](https://img.shields.io/badge/storybook-81bae6.svg?style=for-the-badge&logo=storybook&logoColor=ffffff)
 
 ---
 
